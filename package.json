@@ -1,6 +1,6 @@
 {
-  "name": "@ludovicm67/react-dotenv",
-  "version": "1.0.6",
+  "name": "@owlpro/react-dotenv",
+  "version": "1.0.7",
   "description": "Load environment variables dynamically for your React applications created with CRA (Create-React-App).",
   "license": "MIT",
   "module": "./src/lib.js",
@@ -10,11 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ludovicm67/react-dotenv.git"
+    "url": "git+https://github.com/owlpro/react-dotenv.git"
   },
   "author": {
-    "name": "Ludovic Muller",
-    "url": "https://ludovic-muller.fr/"
+    "name": "Owlpro",
+    "url": "https://github.com/owlpro"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
